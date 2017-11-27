@@ -1,0 +1,1 @@
+# kong-azure-functions-plugin
